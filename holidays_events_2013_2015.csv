@@ -1,0 +1,171 @@
+date,type,locale,locale_name,description,transferred
+2013-01-01T00:00:00.000Z,Holiday,National,Ecuador,Primer dia del ano,false
+2013-01-05T00:00:00.000Z,Work Day,National,Ecuador,Recupero puente Navidad,false
+2013-01-12T00:00:00.000Z,Work Day,National,Ecuador,Recupero puente primer dia del ano,false
+2013-02-11T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2013-02-12T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2013-03-02T00:00:00.000Z,Holiday,Local,Manta,Fundacion de Manta,false
+2013-04-01T00:00:00.000Z,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,false
+2013-04-12T00:00:00.000Z,Holiday,Local,Cuenca,Fundacion de Cuenca,false
+2013-04-14T00:00:00.000Z,Holiday,Local,Libertad,Cantonizacion de Libertad,false
+2013-04-21T00:00:00.000Z,Holiday,Local,Riobamba,Cantonizacion de Riobamba,false
+2013-04-29T00:00:00.000Z,Holiday,National,Ecuador,Viernes Santo,false
+2013-05-01T00:00:00.000Z,Holiday,National,Ecuador,Dia del Trabajo,false
+2013-05-11T00:00:00.000Z,Additional,National,Ecuador,Dia de la Madre-1,false
+2013-05-12T00:00:00.000Z,Holiday,Local,Puyo,Cantonizacion del Puyo,false
+2013-05-12T00:00:00.000Z,Event,National,Ecuador,Dia de la Madre,false
+2013-05-24T00:00:00.000Z,Holiday,National,Ecuador,Batalla de Pichincha,false
+2013-06-23T00:00:00.000Z,Holiday,Local,Guaranda,Cantonizacion de Guaranda,false
+2013-06-25T00:00:00.000Z,Holiday,Regional,Imbabura,Provincializacion de Imbabura,false
+2013-06-25T00:00:00.000Z,Holiday,Local,Machala,Fundacion de Machala,false
+2013-06-25T00:00:00.000Z,Holiday,Local,Latacunga,Cantonizacion de Latacunga,false
+2013-07-03T00:00:00.000Z,Holiday,Local,El Carmen,Cantonizacion de El Carmen,false
+2013-07-03T00:00:00.000Z,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,false
+2013-07-23T00:00:00.000Z,Holiday,Local,Cayambe,Cantonizacion de Cayambe,false
+2013-07-24T00:00:00.000Z,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,false
+2013-07-25T00:00:00.000Z,Holiday,Local,Guayaquil,Fundacion de Guayaquil,false
+2013-08-05T00:00:00.000Z,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,false
+2013-08-10T00:00:00.000Z,Holiday,National,Ecuador,Primer Grito de Independencia,false
+2013-08-15T00:00:00.000Z,Holiday,Local,Riobamba,Fundacion de Riobamba,false
+2013-08-24T00:00:00.000Z,Holiday,Local,Ambato,Fundacion de Ambato,false
+2013-09-28T00:00:00.000Z,Holiday,Local,Ibarra,Fundacion de Ibarra,false
+2013-10-07T00:00:00.000Z,Holiday,Local,Quevedo,Cantonizacion de Quevedo,false
+2013-10-09T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Guayaquil,true
+2013-10-11T00:00:00.000Z,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,false
+2013-11-02T00:00:00.000Z,Holiday,National,Ecuador,Dia de Difuntos,false
+2013-11-03T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Cuenca,false
+2013-11-06T00:00:00.000Z,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,false
+2013-11-07T00:00:00.000Z,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,false
+2013-11-10T00:00:00.000Z,Holiday,Local,Guaranda,Independencia de Guaranda,false
+2013-11-11T00:00:00.000Z,Holiday,Local,Latacunga,Independencia de Latacunga,false
+2013-11-12T00:00:00.000Z,Holiday,Local,Ambato,Independencia de Ambato,false
+2013-12-05T00:00:00.000Z,Additional,Local,Quito,Fundacion de Quito-1,false
+2013-12-06T00:00:00.000Z,Holiday,Local,Quito,Fundacion de Quito,false
+2013-12-08T00:00:00.000Z,Holiday,Local,Loja,Fundacion de Loja,false
+2013-12-21T00:00:00.000Z,Additional,National,Ecuador,Navidad-4,false
+2013-12-22T00:00:00.000Z,Additional,National,Ecuador,Navidad-3,false
+2013-12-22T00:00:00.000Z,Holiday,Local,Salinas,Cantonizacion de Salinas,false
+2013-12-23T00:00:00.000Z,Additional,National,Ecuador,Navidad-2,false
+2013-12-24T00:00:00.000Z,Additional,National,Ecuador,Navidad-1,false
+2013-12-25T00:00:00.000Z,Holiday,National,Ecuador,Navidad,false
+2013-12-26T00:00:00.000Z,Additional,National,Ecuador,Navidad+1,false
+2013-12-31T00:00:00.000Z,Additional,National,Ecuador,Primer dia del ano-1,false
+2014-01-01T00:00:00.000Z,Holiday,National,Ecuador,Primer dia del ano,false
+2014-03-02T00:00:00.000Z,Holiday,Local,Manta,Fundacion de Manta,false
+2014-03-03T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2014-03-04T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2014-04-01T00:00:00.000Z,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,false
+2014-04-12T00:00:00.000Z,Holiday,Local,Cuenca,Fundacion de Cuenca,false
+2014-04-14T00:00:00.000Z,Holiday,Local,Libertad,Cantonizacion de Libertad,false
+2014-04-18T00:00:00.000Z,Holiday,National,Ecuador,Viernes Santo,false
+2014-04-21T00:00:00.000Z,Holiday,Local,Riobamba,Cantonizacion de Riobamba,false
+2014-05-01T00:00:00.000Z,Holiday,National,Ecuador,Dia del Trabajo,false
+2014-05-10T00:00:00.000Z,Additional,National,Ecuador,Dia de la Madre-1,false
+2014-05-11T00:00:00.000Z,Event,National,Ecuador,Dia de la Madre,false
+2014-05-12T00:00:00.000Z,Holiday,Local,Puyo,Cantonizacion del Puyo,false
+2014-05-24T00:00:00.000Z,Holiday,National,Ecuador,Batalla de Pichincha,false
+2014-06-12T00:00:00.000Z,Event,National,Ecuador,Inauguracion Mundial de futbol Brasil,false
+2014-06-15T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Suiza,false
+2014-06-20T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Honduras,false
+2014-06-23T00:00:00.000Z,Holiday,Local,Guaranda,Cantonizacion de Guaranda,false
+2014-06-25T00:00:00.000Z,Holiday,Local,Latacunga,Cantonizacion de Latacunga,false
+2014-06-25T00:00:00.000Z,Holiday,Local,Machala,Fundacion de Machala,false
+2014-06-25T00:00:00.000Z,Holiday,Regional,Imbabura,Provincializacion de Imbabura,false
+2014-06-25T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Francia,false
+2014-06-28T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,false
+2014-06-29T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,false
+2014-06-30T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,false
+2014-07-01T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,false
+2014-07-03T00:00:00.000Z,Holiday,Local,El Carmen,Cantonizacion de El Carmen,false
+2014-07-03T00:00:00.000Z,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,false
+2014-07-04T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,false
+2014-07-05T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,false
+2014-07-08T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,false
+2014-07-09T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,false
+2014-07-12T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Tercer y cuarto lugar,false
+2014-07-13T00:00:00.000Z,Event,National,Ecuador,Mundial de futbol Brasil: Final,false
+2014-07-23T00:00:00.000Z,Holiday,Local,Cayambe,Cantonizacion de Cayambe,false
+2014-07-24T00:00:00.000Z,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,false
+2014-07-25T00:00:00.000Z,Holiday,Local,Guayaquil,Fundacion de Guayaquil,false
+2014-08-05T00:00:00.000Z,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,false
+2014-08-10T00:00:00.000Z,Holiday,National,Ecuador,Primer Grito de Independencia,false
+2014-08-15T00:00:00.000Z,Holiday,Local,Riobamba,Fundacion de Riobamba,false
+2014-08-24T00:00:00.000Z,Holiday,Local,Ambato,Fundacion de Ambato,false
+2014-09-28T00:00:00.000Z,Holiday,Local,Ibarra,Fundacion de Ibarra,false
+2014-10-07T00:00:00.000Z,Holiday,Local,Quevedo,Cantonizacion de Quevedo,false
+2014-10-09T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Guayaquil,true
+2014-10-10T00:00:00.000Z,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,false
+2014-11-02T00:00:00.000Z,Holiday,National,Ecuador,Dia de Difuntos,false
+2014-11-03T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Cuenca,false
+2014-11-06T00:00:00.000Z,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,false
+2014-11-07T00:00:00.000Z,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,false
+2014-11-10T00:00:00.000Z,Holiday,Local,Guaranda,Independencia de Guaranda,false
+2014-11-11T00:00:00.000Z,Holiday,Local,Latacunga,Independencia de Latacunga,false
+2014-11-12T00:00:00.000Z,Holiday,Local,Ambato,Independencia de Ambato,false
+2014-11-28T00:00:00.000Z,Event,National,Ecuador,Black Friday,false
+2014-12-01T00:00:00.000Z,Event,National,Ecuador,Cyber Monday,false
+2014-12-05T00:00:00.000Z,Additional,Local,Quito,Fundacion de Quito-1,false
+2014-12-06T00:00:00.000Z,Holiday,Local,Quito,Fundacion de Quito,false
+2014-12-08T00:00:00.000Z,Holiday,Local,Loja,Fundacion de Loja,false
+2014-12-20T00:00:00.000Z,Work Day,National,Ecuador,Recupero Puente Navidad,false
+2014-12-21T00:00:00.000Z,Additional,National,Ecuador,Navidad-4,false
+2014-12-22T00:00:00.000Z,Holiday,Local,Salinas,Cantonizacion de Salinas,false
+2014-12-22T00:00:00.000Z,Additional,National,Ecuador,Navidad-3,false
+2014-12-23T00:00:00.000Z,Additional,National,Ecuador,Navidad-2,false
+2014-12-24T00:00:00.000Z,Additional,National,Ecuador,Navidad-1,false
+2014-12-25T00:00:00.000Z,Holiday,National,Ecuador,Navidad,false
+2014-12-26T00:00:00.000Z,Bridge,National,Ecuador,Puente Navidad,false
+2014-12-26T00:00:00.000Z,Additional,National,Ecuador,Navidad+1,false
+2014-12-31T00:00:00.000Z,Additional,National,Ecuador,Primer dia del ano-1,false
+2015-01-01T00:00:00.000Z,Holiday,National,Ecuador,Primer dia del ano,false
+2015-01-02T00:00:00.000Z,Bridge,National,Ecuador,Puente Primer dia del ano,false
+2015-01-10T00:00:00.000Z,Work Day,National,Ecuador,Recupero Puente Primer dia del ano,false
+2015-02-16T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2015-02-17T00:00:00.000Z,Holiday,National,Ecuador,Carnaval,false
+2015-03-02T00:00:00.000Z,Holiday,Local,Manta,Fundacion de Manta,false
+2015-04-01T00:00:00.000Z,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,false
+2015-04-03T00:00:00.000Z,Holiday,National,Ecuador,Viernes Santo,false
+2015-04-12T00:00:00.000Z,Holiday,Local,Cuenca,Fundacion de Cuenca,false
+2015-04-14T00:00:00.000Z,Holiday,Local,Libertad,Cantonizacion de Libertad,false
+2015-04-21T00:00:00.000Z,Holiday,Local,Riobamba,Cantonizacion de Riobamba,false
+2015-05-01T00:00:00.000Z,Holiday,National,Ecuador,Dia del Trabajo,false
+2015-05-09T00:00:00.000Z,Additional,National,Ecuador,Dia de la Madre-1,false
+2015-05-10T00:00:00.000Z,Event,National,Ecuador,Dia de la Madre,false
+2015-05-12T00:00:00.000Z,Holiday,Local,Puyo,Cantonizacion del Puyo,false
+2015-05-24T00:00:00.000Z,Holiday,National,Ecuador,Batalla de Pichincha,false
+2015-06-23T00:00:00.000Z,Holiday,Local,Guaranda,Cantonizacion de Guaranda,false
+2015-06-25T00:00:00.000Z,Holiday,Local,Machala,Fundacion de Machala,false
+2015-06-25T00:00:00.000Z,Holiday,Regional,Imbabura,Provincializacion de Imbabura,false
+2015-06-25T00:00:00.000Z,Holiday,Local,Latacunga,Cantonizacion de Latacunga,false
+2015-07-03T00:00:00.000Z,Holiday,Local,El Carmen,Cantonizacion de El Carmen,false
+2015-07-03T00:00:00.000Z,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,false
+2015-07-23T00:00:00.000Z,Holiday,Local,Cayambe,Cantonizacion de Cayambe,false
+2015-07-24T00:00:00.000Z,Holiday,Local,Guayaquil,Fundacion de Guayaquil-1,false
+2015-07-25T00:00:00.000Z,Holiday,Local,Guayaquil,Fundacion de Guayaquil,false
+2015-08-05T00:00:00.000Z,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,false
+2015-08-10T00:00:00.000Z,Holiday,National,Ecuador,Primer Grito de Independencia,false
+2015-08-15T00:00:00.000Z,Holiday,Local,Riobamba,Fundacion de Riobamba,false
+2015-08-24T00:00:00.000Z,Holiday,Local,Ambato,Fundacion de Ambato,false
+2015-09-28T00:00:00.000Z,Holiday,Local,Ibarra,Fundacion de Ibarra,false
+2015-10-07T00:00:00.000Z,Holiday,Local,Quevedo,Cantonizacion de Quevedo,false
+2015-10-09T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Guayaquil,false
+2015-11-02T00:00:00.000Z,Holiday,National,Ecuador,Dia de Difuntos,false
+2015-11-03T00:00:00.000Z,Holiday,National,Ecuador,Independencia de Cuenca,false
+2015-11-06T00:00:00.000Z,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,false
+2015-11-07T00:00:00.000Z,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,false
+2015-11-10T00:00:00.000Z,Holiday,Local,Guaranda,Independencia de Guaranda,false
+2015-11-11T00:00:00.000Z,Holiday,Local,Latacunga,Independencia de Latacunga,false
+2015-11-12T00:00:00.000Z,Holiday,Local,Ambato,Independencia de Ambato,false
+2015-11-27T00:00:00.000Z,Event,National,Ecuador,Black Friday,false
+2015-11-30T00:00:00.000Z,Event,National,Ecuador,Cyber Monday,false
+2015-12-05T00:00:00.000Z,Additional,Local,Quito,Fundacion de Quito-1,false
+2015-12-06T00:00:00.000Z,Holiday,Local,Quito,Fundacion de Quito,false
+2015-12-08T00:00:00.000Z,Holiday,Local,Loja,Fundacion de Loja,false
+2015-12-21T00:00:00.000Z,Additional,National,Ecuador,Navidad-4,false
+2015-12-22T00:00:00.000Z,Additional,National,Ecuador,Navidad-3,false
+2015-12-22T00:00:00.000Z,Holiday,Local,Salinas,Cantonizacion de Salinas,false
+2015-12-23T00:00:00.000Z,Additional,National,Ecuador,Navidad-2,false
+2015-12-24T00:00:00.000Z,Additional,National,Ecuador,Navidad-1,false
+2015-12-25T00:00:00.000Z,Holiday,National,Ecuador,Navidad,false
+2015-12-26T00:00:00.000Z,Additional,National,Ecuador,Navidad+1,false
+2015-12-31T00:00:00.000Z,Additional,National,Ecuador,Primer dia del ano-1,false
